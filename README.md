@@ -1,5 +1,5 @@
 # SSO-SMOTE-SSO
-This is an simple hybrid intelligent sampling technique to tackle class imbalance at data label. To know more about it please to the link: https://www.sciencedirect.com/science/article/pii/S1568494619300924. Site our paper, if you are using it in your research work. 
+This is a hybrid intelligent sampling technique to tackle class-imbalance in real world datasets. To know more about it please to the link: https://www.sciencedirect.com/science/article/pii/S1568494619300924. Site our paper, if you are using it in your research work. 
 
 The citation of our paper is: 
 
