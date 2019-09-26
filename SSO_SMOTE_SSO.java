@@ -24,7 +24,7 @@ import weka.core.Instances;
 import java.lang.Object;
 /*This program is the implementation of Hybrid Intelligent Sampling Technique Called SSOmaj-SMOTE-SSOmin
 
-If you want to use this in the research work, please site the paper below:
+If you want to use this in the research work, please cite the paper below:
 
 Susan, Seba, and Amitesh Kumar. "SSOMaj-SMOTE-SSOMin: Three-step intelligent pruning 
 of majority and minority samples for learning from imbalanced datasets."
