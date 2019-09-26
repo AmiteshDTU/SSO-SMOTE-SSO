@@ -30,11 +30,11 @@ Susan, Seba, and Amitesh Kumar. "SSOMaj-SMOTE-SSOMin: Three-step intelligent pru
 of majority and minority samples for learning from imbalanced datasets."
 Applied Soft Computing 78 (2019): 141-149.
 
-link: https://www.sciencedirect.com/science/article/pii/S1568494619300924
+The link of paper is: https://www.sciencedirect.com/science/article/pii/S1568494619300924
 
-Caution: only files with *.arff extensions are used in this program
+Caution: only files with *.arff extensions are used in this program.
 
-Method of evaluation:  We have used Area Under the Curve (AUC) for evaluation purposse
+Method of evaluation:  We have used Area Under the Curve (AUC) for evaluation purposse.
 
 You only need to provide the path to directory where the data file is stored. The input file needed to be stored in such directory.
 The output will be generated in same directory where the input file is stored.
