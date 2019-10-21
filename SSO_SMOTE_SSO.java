@@ -608,7 +608,7 @@ public class SSO_SMOTE_SSO {
 	    	 int majorsize=0;
 	    	for(int i=0;i<object_1.training_set.numInstances();i++)
 	    	{
-	    		if(object_1.training_set.instance(i).classValue()==0)
+	    		if(object_1.training_set.instance(i).classValue()==1)
 	    		{
 	    			object_1.balance_set.add(object_1.training_set.instance(i));
 	    			majorsize++;
